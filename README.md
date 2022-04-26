@@ -11,7 +11,7 @@
 
 - 🌍 I'm based in Calicut,Kerala.
    
-- ⚡ I love coding over food
+- ⚡ I love coding 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
