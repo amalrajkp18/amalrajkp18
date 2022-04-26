@@ -1,6 +1,7 @@
-##Hi there, I'm Amalraj
+<h1>Hi there👋, I'm Amalraj<h1>
+   
+   
 <h3>I'm a Student,Developer, and Freelancer !!</h3>
-
 
 
 - 🖥️ See my portfolio at [my portfolio](https://amalrajkp18.github.io/)
