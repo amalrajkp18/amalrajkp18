@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/amal-raj-k-p-b481b5204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal raj.k.p" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_predt0r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_perdt0r" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005375569337" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="35" /></a> 
+<a href="" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="35" /></a> 
 </p>
 
 
