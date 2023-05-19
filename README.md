@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **amalrajkp18@gmail.com**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working **Flutter**
 
 - 🌍 I'm based in Calicut,Kerala.
    
