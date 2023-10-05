@@ -5,7 +5,6 @@
   <p>📫 How to reach me: <a href="mailto:amalrajkp18@gmail.com">amalrajkp18@gmail.com</a></p>
   <p>🌱 I’m currently working with Flutter</p>
   <p>🌍 I'm based in Calicut, Kerala.</p>
-  <p>⚡ I love coding</p>
 </div>
 
 
@@ -65,6 +64,11 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amalrajkp18&icon=0&color=0)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=amalrajkp18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.buymeacoffee.com/amalrajkp1t"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
+
+
+
+
+
