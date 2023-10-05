@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💫 About Me:</h1>
-  <h3>I'm a Developer and Freelancer !!</h3>
+  <h3>I'm a passionate software developer !!</h3>
   <p>🖥️ See my portfolio at <a href="https://amalrajkp18.github.io/">my portfolio</a></p>
   <p>📫 How to reach me: <a href="mailto:amalrajkp18@gmail.com">amalrajkp18@gmail.com</a></p>
   <p>🌱 I’m currently working with Flutter</p>
